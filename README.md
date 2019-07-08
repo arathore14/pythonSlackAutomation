@@ -1,6 +1,6 @@
 # Python Slack Automation
 
-### Goal: ## "To Integrate Slack Using Python"
+### Goal: "To Integrate Slack Using Python"
 
 ### Tasks Accomplished:
 #### -learned about git and gitflow
