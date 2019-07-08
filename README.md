@@ -8,8 +8,8 @@
 
 ### Tasks In Progress:
 #### -Basic Integration with Slack:
-####       1. Create a channel
-####       2. Send a message
+####       1. Connect to a channel
+####       2. Post a message
 #### -Spike on understanding "pip' and python modules
 
 
