@@ -7,6 +7,7 @@
 #### ---Spike Understanding on "pip" and Python Modules
 #### ---Spike on which Python Modules used, for integrating with Slack
 #### ---Send a message in Python code into slack
+### -Generate a message onto different channels on Slack using Python code
 ### -Upload a Python file to Slack using Terminal:
 #### ---Spike Understanding of Markdown commands
 #### ---Spike Understanding of Push and Pull requests
