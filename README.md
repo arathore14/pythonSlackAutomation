@@ -16,4 +16,5 @@
 ## Tasks In Progress:
 ### -Spike on which Python Modules used, for integrating with Slack:
 ### ---Use those Python Modules to upload a Python file to Slack
+### -Spike on how to integrate with slack using a API/Session Key
 
